@@ -6,6 +6,6 @@ Bulit with a Python-Django back-end and ReactJS front-end.
 
 # Run locally
 In terminal:
-'<cd music-party-with-spotify
+'<addr> cd music-party-with-spotify
 python .\manage.py runserver>'
 
