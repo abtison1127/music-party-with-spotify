@@ -4,8 +4,8 @@ A full-stack web app that lets users listen and control music with each other si
 Bulit with a Python-Django back-end and ReactJS front-end.
 
 
-#Run locally
+# Run locally
 In terminal:
-'cd music-party-with-spotify
-python .\manage.py runserver'
+'<cd music-party-with-spotify
+python .\manage.py runserver>'
 
