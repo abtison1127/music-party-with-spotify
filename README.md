@@ -16,3 +16,8 @@ Copy and paste into browser or CTRL + click() on `http://127.0.0.1:8000/`
 
 *have spotify playing music in background*
 
+Open new terminal: 
+`cd music-party-with-spotify`
+`npm install`
+`npm start`
+
